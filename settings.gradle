@@ -1,0 +1,2 @@
+rootProject.name = "IndiaChats"
+include ':app'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022081955541",
+    "project_id": "indiachats-377d0",
+    "storage_bucket": "indiachats-377d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022081955541:android:fa688171cad182742a545c",
+        "android_client_info": {
+          "package_name": "com.example.indiachats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022081955541-ni6ri5rjhtjtd3snd6v6lr3ovej9f0pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmgGXYuj6Vd7_QWxGlyUmfG8mD5waagI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022081955541-ni6ri5rjhtjtd3snd6v6lr3ovej9f0pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
